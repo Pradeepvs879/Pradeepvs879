@@ -44,11 +44,6 @@
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pradeepvs879&theme=react-dark" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
