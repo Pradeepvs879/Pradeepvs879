@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pradeep V S</h1>
-<h3 align="center">Aspiring Software Engineer | Java Enthusiast | DSA Explorer</h3>
+<h3 align="center">Software Engineer | Java Enthusiast | DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Passionate%20about%20building%20Scalable%20Solutions;Love%20Java%20%7C%20DSA%20%7C%20SQL;Let's%20solve%20real-world%20problems%20together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=lPassionate%20about%20building%20Scalable%20Solutions;Love%20Java%20%7C%20DSA%20%7C%20SQL;Let's%20solve%20real-world%20problems%20together!" alt="Typing SVG" />
 </p>
 
 ---
