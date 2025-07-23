@@ -2,16 +2,16 @@
 <h3 align="center">Software Engineer | Java Enthusiast | DSA Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=%20Passionate%20about%20building%20Scalable%20Solutions;Love%20Java%20%7C%20DSA%20%7C%20SQL;Let's%20solve%20real-world%20problems%20together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=520&lines=Passionate%20about%20building%20Scalable%20Solutions;Love%20Java%20%7C%20DSA%20%7C%20SQL;Let's%20solve%20real-world%20problems%20together!" alt="Typing SVG" />
 </p>
 
----
+<br>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Java Backend Projects**  
-- 🌱 I’m learning **Spring Boot, System Design, and Microservices**  
+- 🔭 I'm currently working on **Java Backend Projects**  
+- 🌱 I'm learning **Spring Boot, System Design, and Microservices**  
 - 💬 Ask me about **Java, DSA, SQL, OOP, Design Patterns, and LLD**  
-- ⚡ Fun fact: I debug like a detective 🕵️‍♂️ and design like an artist 🎨  
+- ⚡ Fun fact: I debug like a :detective: and design like an :art:  
 - 📫 How to reach me: **pradeepvs879@gmail.com**
 
 ---
